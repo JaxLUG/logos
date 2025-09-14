@@ -435,6 +435,6 @@
 			</g>
 		</g>
 	</g>
-	<text x="65" y="160" style="font-family: arial; font-size: 32px; font-style: italic; font-weight: bold;">Jax</text>
-	<text x="75" y="190" style="font-family: arial; font-size: 32px; font-style: italic; font-weight: bold;">LUG</text>
+	<text x="65" y="160" style="color: black; font-family: arial; font-size: 32px; font-style: italic; font-weight: bold;">Jax</text>
+	<text x="75" y="190" style="color: black; font-family: arial; font-size: 32px; font-style: italic; font-weight: bold;">LUG</text>
 </svg>
