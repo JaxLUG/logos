@@ -1,7 +1,8 @@
-# JaxLUG Logos
+# JaxLUG™ Logos
 
-This repository contains the official Jacksonville, Florida Linux Users Group
-logos. This logo is based on the official Linux Tux Logo attribution follows.
+This repository contains the official Jacksonville, Florida, Jacksonville
+Linux Users Group™ logos. This logo is based on the official Linux Tux Logo
+attribution follows.
 
 ## Tux Logo Attribution
 
@@ -12,3 +13,6 @@ logos. This logo is based on the official Linux Tux Logo attribution follows.
   Creative Commons CC0 1.0
   [Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/deed.en)
   .
+
+Jacksonville Linux Users Group, Inc.</br>
+A Florida Non-Profit Corporation 501(c)(3)
